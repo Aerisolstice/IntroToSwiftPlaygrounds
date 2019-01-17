@@ -10,4 +10,17 @@ print(myThirdVariable)
 
 
 
+//Swift Playgrounds #1
+
+var followAlong: String
+followAlong = "I hope I'm doing this right,"
+
+var stillFollowing: String
+stillFollowing = " but I think it'll work out?"
+
+var andStillFollowing: String
+andStillFollowing = followAlong + stillFollowing
+print(andStillFollowing)
+
+
 
